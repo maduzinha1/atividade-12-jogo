@@ -14,9 +14,8 @@ Uma aventura emocionante onde você controla um herói que enfrenta desafios e d
 - Acompanhe os desafios e o status do herói a cada rodada.
 
 ## Autores
-- Seu Nome Completo
-- Nome do Colega (se aplicável)
+- Maria Eduarda Souza Oliveira, Lazaro dias
 
 ## Autores
-- Maria Eduarda Souza Oliveira
+- Maria Eduarda Souza Oliveira, Lazaro Dias 
 
